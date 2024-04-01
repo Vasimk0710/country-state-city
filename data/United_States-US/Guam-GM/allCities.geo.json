@@ -1,0 +1,54 @@
+[
+	{ "name": "Maina", "countryCode": "US", "stateCode": "GU", "latitude": "13.4692", "longitude": "144.7332" },
+	{ "name": "Hagåtña", "countryCode": "US", "stateCode": "GU", "latitude": "13.4755", "longitude": "144.7526" },
+	{ "name": "Dededo", "countryCode": "US", "stateCode": "GU", "latitude": "13.5178", "longitude": "144.8391" },
+	{
+		"name": "University of Guam",
+		"countryCode": "US",
+		"stateCode": "GU",
+		"latitude": "13.4343",
+		"longitude": "144.8028"
+	},
+	{ "name": "Upper Tumon", "countryCode": "US", "stateCode": "GU", "latitude": "13.5050", "longitude": "144.8019" },
+	{ "name": "Mangilao", "countryCode": "US", "stateCode": "GU", "latitude": "13.4443", "longitude": "144.7937" },
+	{ "name": "Liguan", "countryCode": "US", "stateCode": "GU", "latitude": "13.5340", "longitude": "144.8380" },
+	{ "name": "Apotgan", "countryCode": "US", "stateCode": "GU", "latitude": "13.4440", "longitude": "144.7860" },
+	{ "name": "Maite", "countryCode": "US", "stateCode": "GU", "latitude": "13.4751", "longitude": "144.7576" },
+	{ "name": "Mongmong", "countryCode": "US", "stateCode": "GU", "latitude": "13.4700", "longitude": "144.7500" },
+	{ "name": "Sinajana", "countryCode": "US", "stateCode": "GU", "latitude": "13.4636", "longitude": "144.7503" },
+	{ "name": "Machanao", "countryCode": "US", "stateCode": "GU", "latitude": "13.5432", "longitude": "144.8435" },
+	{ "name": "Agana Heights", "countryCode": "US", "stateCode": "GU", "latitude": "13.4644", "longitude": "144.7489" },
+	{ "name": "Mogfog", "countryCode": "US", "stateCode": "GU", "latitude": "13.4690", "longitude": "144.7330" },
+	{ "name": "Toto", "countryCode": "US", "stateCode": "GU", "latitude": "13.4767", "longitude": "144.7622" },
+	{ "name": "Tamuning", "countryCode": "US", "stateCode": "GU", "latitude": "13.4850", "longitude": "144.7802" },
+	{ "name": "Barrigada", "countryCode": "US", "stateCode": "GU", "latitude": "13.4700", "longitude": "144.8083" },
+	{ "name": "Oka", "countryCode": "US", "stateCode": "GU", "latitude": "13.4870", "longitude": "144.7760" },
+	{ "name": "Wusstig", "countryCode": "US", "stateCode": "GU", "latitude": "13.5090", "longitude": "144.8380" },
+	{ "name": "Adacao", "countryCode": "US", "stateCode": "GU", "latitude": "13.4770", "longitude": "144.7620" },
+	{ "name": "Santa Rita", "countryCode": "US", "stateCode": "GU", "latitude": "13.3830", "longitude": "144.6630" },
+	{ "name": "Agat", "countryCode": "US", "stateCode": "GU", "latitude": "13.3860", "longitude": "144.6580" },
+	{
+		"name": "Barrigada Heights",
+		"countryCode": "US",
+		"stateCode": "GU",
+		"latitude": "13.4740",
+		"longitude": "144.8090"
+	},
+	{ "name": "Macheche", "countryCode": "US", "stateCode": "GU", "latitude": "13.5250", "longitude": "144.8390" },
+	{
+		"name": "South Gayinero",
+		"countryCode": "US",
+		"stateCode": "GU",
+		"latitude": "13.3830",
+		"longitude": "144.6700"
+	},
+	{ "name": "Mataguac", "countryCode": "US", "stateCode": "GU", "latitude": "13.5380", "longitude": "144.8470" },
+	{
+		"name": "Machananao East",
+		"countryCode": "US",
+		"stateCode": "GU",
+		"latitude": "13.5430",
+		"longitude": "144.8520"
+	},
+	{ "name": "Y Papao", "countryCode": "US", "stateCode": "GU", "latitude": "13.5000", "longitude": "144.8000" }
+]

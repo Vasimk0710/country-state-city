@@ -1,0 +1,337 @@
+[
+	{
+		"name": "Capitol Hill",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Achugao",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Afetnas",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Agingan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "American Memorial Park",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Akina",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Falipe",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Gonna",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Lito",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Mahetog",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Matuis",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Palacios",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Perdido",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Rabagau",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Teo",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "As Terlaje",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Banaderu",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Bird Island",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chacha",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Galaide",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Kanoa I",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Kanoa II",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Kanoa III",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Kanoa IV",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Kiya",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Laulau",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Piao",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Chalan Rueda",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "China Town",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Dagu",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Dandan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Fananganan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Fanonchuluyan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Finasisu",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Forbidden Island",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Garapan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Gualo Rai",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Hilaihai",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Akgak",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Denni",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Fadang",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Liyang",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Maddok",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Naftan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "I Pitot",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kagman",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kagman I",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kagman II",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kagman III",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kagman IV",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kalabera",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Kannat Tabla",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Koblerville",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Laulau Bay",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Lower Base",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Managaha",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Marpi",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Matansa",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Maturana Hill",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Nanasu",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Navy Hill",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Opyan",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Papago",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Pidos Kahalo",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Puerto Rico",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Sabaneta",
+		"countryCode": "US",
+		"stateCode": "MP"
+	},
+	{
+		"name": "Sadog Tasi",
+		"countryCode": "US",
+		"stateCode": "MP"
+	}
+]

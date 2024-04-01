@@ -1,0 +1,471 @@
+[
+	{
+		"name": "Capitol Hill",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2137",
+		"longitude": "145.7546"
+	},
+	{
+		"name": "Achugao",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2261",
+		"longitude": "145.7862"
+	},
+	{
+		"name": "Afetnas",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1145",
+		"longitude": "145.7293"
+	},
+	{
+		"name": "Agingan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1096",
+		"longitude": "145.7278"
+	},
+	{
+		"name": "American Memorial Park",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2123",
+		"longitude": "145.7535"
+	},
+	{
+		"name": "As Akina",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2321",
+		"longitude": "145.7890"
+	},
+	{
+		"name": "As Falipe",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1842",
+		"longitude": "145.7156"
+	},
+	{
+		"name": "As Gonna",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2453",
+		"longitude": "145.8123"
+	},
+	{
+		"name": "As Lito",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1684",
+		"longitude": "145.7071"
+	},
+	{
+		"name": "As Mahetog",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2021",
+		"longitude": "145.7190"
+	},
+	{
+		"name": "As Matuis",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2194",
+		"longitude": "145.7283"
+	},
+	{
+		"name": "As Palacios",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2368",
+		"longitude": "145.7489"
+	},
+	{
+		"name": "As Perdido",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2233",
+		"longitude": "145.7652"
+	},
+	{
+		"name": "As Rabagau",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2134",
+		"longitude": "145.7743"
+	},
+	{
+		"name": "As Teo",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1821",
+		"longitude": "145.7115"
+	},
+	{
+		"name": "As Terlaje",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1917",
+		"longitude": "145.7234"
+	},
+	{
+		"name": "Banaderu",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2055",
+		"longitude": "145.7893"
+	},
+	{
+		"name": "Bird Island",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2098",
+		"longitude": "145.7124"
+	},
+	{
+		"name": "Chacha",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2500",
+		"longitude": "145.8245"
+	},
+	{
+		"name": "Chalan Galaide",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1652",
+		"longitude": "145.7100"
+	},
+	{
+		"name": "Chalan Kanoa I",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1301",
+		"longitude": "145.7290"
+	},
+	{
+		"name": "Chalan Kanoa II",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1328",
+		"longitude": "145.7315"
+	},
+	{
+		"name": "Chalan Kanoa III",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1346",
+		"longitude": "145.7341"
+	},
+	{
+		"name": "Chalan Kanoa IV",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1373",
+		"longitude": "145.7367"
+	},
+	{
+		"name": "Chalan Kiya",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1827",
+		"longitude": "145.7163"
+	},
+	{
+		"name": "Chalan Laulau",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1759",
+		"longitude": "145.7204"
+	},
+	{
+		"name": "Chalan Piao",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1458",
+		"longitude": "145.7259"
+	},
+	{
+		"name": "Chalan Rueda",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1997",
+		"longitude": "145.7205"
+	},
+	{
+		"name": "China Town",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2110",
+		"longitude": "145.7540"
+	},
+	{
+		"name": "Dagu",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1856",
+		"longitude": "145.7112"
+	},
+	{
+		"name": "Dandan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1583",
+		"longitude": "145.7065"
+	},
+	{
+		"name": "Fananganan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2068",
+		"longitude": "145.7184"
+	},
+	{
+		"name": "Fanonchuluyan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2229",
+		"longitude": "145.7241"
+	},
+	{
+		"name": "Finasisu",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1499",
+		"longitude": "145.7077"
+	},
+	{
+		"name": "Forbidden Island",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2003",
+		"longitude": "145.7634"
+	},
+	{
+		"name": "Garapan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2119",
+		"longitude": "145.7586"
+	},
+	{
+		"name": "Gualo Rai",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1923",
+		"longitude": "145.7209"
+	},
+	{
+		"name": "Hilaihai",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2038",
+		"longitude": "145.7287"
+	},
+	{
+		"name": "I Akgak",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2387",
+		"longitude": "145.7843"
+	},
+	{
+		"name": "I Denni",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2265",
+		"longitude": "145.7751"
+	},
+	{
+		"name": "I Fadang",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2142",
+		"longitude": "145.7670"
+	},
+	{
+		"name": "I Liyang",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2311",
+		"longitude": "145.7899"
+	},
+	{
+		"name": "I Maddok",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2474",
+		"longitude": "145.8127"
+	},
+	{
+		"name": "I Naftan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1012",
+		"longitude": "145.7298"
+	},
+	{
+		"name": "I Pitot",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2571",
+		"longitude": "145.8205"
+	},
+	{
+		"name": "Kagman",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1598",
+		"longitude": "145.7461"
+	},
+	{
+		"name": "Kagman I",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1615",
+		"longitude": "145.7483"
+	},
+	{
+		"name": "Kagman II",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1632",
+		"longitude": "145.7505"
+	},
+	{
+		"name": "Kagman III",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1649",
+		"longitude": "145.7527"
+	},
+	{
+		"name": "Kagman IV",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1666",
+		"longitude": "145.7549"
+	},
+	{
+		"name": "Kalabera",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2568",
+		"longitude": "145.8223"
+	},
+	{
+		"name": "Kannat Tabla",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1771",
+		"longitude": "145.7136"
+	},
+	{
+		"name": "Koblerville",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1430",
+		"longitude": "145.7134"
+	},
+	{
+		"name": "Laulau Bay",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1305",
+		"longitude": "145.7108"
+	},
+	{
+		"name": "Lower Base",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1854",
+		"longitude": "145.7055"
+	},
+	{
+		"name": "Managaha",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2173",
+		"longitude": "145.7298"
+	},
+	{
+		"name": "Marpi",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2507",
+		"longitude": "145.8153"
+	},
+	{
+		"name": "Matansa",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2285",
+		"longitude": "145.7482"
+	},
+	{
+		"name": "Maturana Hill",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2136",
+		"longitude": "145.7589"
+	},
+	{
+		"name": "Nanasu",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1764",
+		"longitude": "145.7210"
+	},
+	{
+		"name": "Navy Hill",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2190",
+		"longitude": "145.7501"
+	},
+	{
+		"name": "Opyan",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.2076",
+		"longitude": "145.7235"
+	},
+	{
+		"name": "Papago",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1427",
+		"longitude": "145.7128"
+	},
+	{
+		"name": "Pidos Kahalo",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1850",
+		"longitude": "145.7197"
+	},
+	{
+		"name": "Puerto Rico",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1911",
+		"longitude": "145.7483"
+	},
+	{
+		"name": "Sabaneta",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1667",
+		"longitude": "145.7000"
+	},
+	{
+		"name": "Sadog Tasi",
+		"countryCode": "US",
+		"stateCode": "MP",
+		"latitude": "15.1546",
+		"longitude": "145.7421"
+	}
+]

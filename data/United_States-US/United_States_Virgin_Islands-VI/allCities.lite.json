@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Charlotte Amalie",
+		"countryCode": "US",
+		"stateCode": "VI"
+	},
+	{
+		"name": "Cruz Bay",
+		"countryCode": "US",
+		"stateCode": "VI"
+	},
+	{
+		"name": "Christiansted",
+		"countryCode": "US",
+		"stateCode": "VI"
+	},
+	{
+		"name": "Frederiksted",
+		"countryCode": "US",
+		"stateCode": "VI"
+	},
+	{
+		"name": "Coral Bay",
+		"countryCode": "US",
+		"stateCode": "VI"
+	}
+]

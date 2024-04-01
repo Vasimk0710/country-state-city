@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Charlotte Amalie",
+		"countryCode": "US",
+		"stateCode": "VI",
+		"latitude": "18.3419",
+		"longitude": "-64.9307"
+	},
+	{
+		"name": "Cruz Bay",
+		"countryCode": "US",
+		"stateCode": "VI",
+		"latitude": "18.3333",
+		"longitude": "-64.7939"
+	},
+	{
+		"name": "Christiansted",
+		"countryCode": "US",
+		"stateCode": "VI",
+		"latitude": "17.7466",
+		"longitude": "-64.7056"
+	},
+	{
+		"name": "Frederiksted",
+		"countryCode": "US",
+		"stateCode": "VI",
+		"latitude": "17.7146",
+		"longitude": "-64.8827"
+	},
+	{
+		"name": "Coral Bay",
+		"countryCode": "US",
+		"stateCode": "VI",
+		"latitude": "18.3298",
+		"longitude": "-64.7086"
+	}
+]
